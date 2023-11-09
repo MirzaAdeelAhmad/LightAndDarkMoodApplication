@@ -85,3 +85,4 @@ To learn more about React Native, take a look at the following resources:
 023-11-09 at 21.28.05.png…]()
 ![Simulator Screenshot - iPhone 11 Pro Max - 2023-11-09 at 21 28 02](https://github.com/MirzaAdeelAhmad/LightAndDarkMoodApplication/assets/130549904/13a5ead3-4b2b-411d-92ba-92712e83e67c)
 
+![Simulator Screenshot - iPhone 11 Pro Max - 2023-11-09 at 21 28 05](https://github.com/MirzaAdeelAhmad/LightAndDarkMoodApplication/assets/130549904/88d921bc-057c-40b6-8baf-3fcf6af5e6ce)
