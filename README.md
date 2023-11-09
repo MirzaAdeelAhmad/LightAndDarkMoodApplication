@@ -76,4 +76,12 @@ To learn more about React Native, take a look at the following resources:
 - [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native
+
+# OutPut
+![Simulator Screenshot - iPhone 11 Pro Max - 2023-11-09 at 21 27 21](https://github.com/MirzaAdeelAhmad/LightAndDarkMoodApplication/assets/130549904/891e6605-4ab9-4863-bba0-f3c292f48ee1)
+![Simulator Screenshot - iPhone 11 Pro Max - 2023-11-09 at 21 27 56](https://github.com/MirzaAdeelAhmad/LightAndDarkMoodApplication/assets/130549904/b8a1096e-de03-45e7-9b58-6a199c117d40)
+![Uploading Simulator Screenshot - iPhone 11 Pro Max - 2![Simulator Screenshot - iPhone 11 Pro Max - 2023-11-09 at 21 28 02](https://github.com/MirzaAdeelAhmad/LightAndDarkMoodApplication/assets/130549904/f48a3b31-b491-4b53-8ca8-81446273010b)
+023-11-09 at 21.28.05.png…]()
+![Simulator Screenshot - iPhone 11 Pro Max - 2023-11-09 at 21 28 02](https://github.com/MirzaAdeelAhmad/LightAndDarkMoodApplication/assets/130549904/13a5ead3-4b2b-411d-92ba-92712e83e67c)
+
